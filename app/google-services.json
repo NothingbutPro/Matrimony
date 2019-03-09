@@ -8,6 +8,37 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:428541405821:android:b66731e29d29dd8a",
+        "android_client_info": {
+          "package_name": "com.arsh.ics.matrimony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428541405821-10d86611p63l0v67kcer48021heph6k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBulxtHDyZQu8P74Z_3CCUNefeWDnu4jBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:428541405821:android:fdc2e8916ac38d76",
         "android_client_info": {
           "package_name": "com.arshmuslim.matrimony"

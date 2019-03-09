@@ -46,7 +46,7 @@
 
         </RelativeLayout>
 
-        <com.ics.ar.matri.view.CustomTextViewBold
+        <com.arsh.ics.matrimony.view.CustomTextViewBold
             android:id="@+id/ctvbName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -58,7 +58,7 @@
             android:textSize="18sp" />
 
 
-        <com.ics.ar.matri.view.CustomTextViewBold
+        <com.arsh.ics.matrimony.view.CustomTextViewBold
             android:id="@+id/tvSubscription"
             android:layout_width="wrap_content"
             android:layout_height="35dp"

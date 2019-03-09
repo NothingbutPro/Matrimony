@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFDF00"
-    tools:context="com.ics.ar.matri.activity.editprofile.AboutFamilyActivity">
+    tools:context="com.arsh.ics.matrimony.activity.editprofile.AboutFamilyActivity">
 
     <RelativeLayout
         android:id="@+id/action_bar_menus"
@@ -32,7 +32,7 @@
 
         </LinearLayout>
 
-        <com.ics.ar.matri.view.CustomTextViewBold
+        <com.arsh.ics.matrimony.view.CustomTextViewBold
             android:id="@+id/tvHeader"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -56,99 +56,99 @@
             android:orientation="vertical">
 
 
-            <com.ics.ar.matri.view.InputFieldView
+            <com.arsh.ics.matrimony.view.InputFieldView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/login_margin_txt_top_5"
                 android:visibility="visible">
 
-                <com.ics.ar.matri.view.CustomEditText
+                <com.arsh.ics.matrimony.view.CustomEditText
                     android:id="@+id/etDietary"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/dietary_habits"
                     android:imeOptions="actionNext"
                     android:singleLine="true" />
-            </com.ics.ar.matri.view.InputFieldView>
+            </com.arsh.ics.matrimony.view.InputFieldView>
 
-            <com.ics.ar.matri.view.InputFieldView
+            <com.arsh.ics.matrimony.view.InputFieldView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/login_margin_txt_top_5"
                 android:visibility="visible">
 
-                <com.ics.ar.matri.view.CustomEditText
+                <com.arsh.ics.matrimony.view.CustomEditText
                     android:id="@+id/etDrink"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/drinking_habits"
                     android:imeOptions="actionNext"
                     android:singleLine="true" />
-            </com.ics.ar.matri.view.InputFieldView>
+            </com.arsh.ics.matrimony.view.InputFieldView>
 
-            <com.ics.ar.matri.view.InputFieldView
+            <com.arsh.ics.matrimony.view.InputFieldView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/login_margin_txt_top_5"
                 android:visibility="visible">
 
-                <com.ics.ar.matri.view.CustomEditText
+                <com.arsh.ics.matrimony.view.CustomEditText
                     android:id="@+id/etSmoking"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/smoking_habits"
                     android:imeOptions="actionNext"
                     android:singleLine="true" />
-            </com.ics.ar.matri.view.InputFieldView>
+            </com.arsh.ics.matrimony.view.InputFieldView>
 
-            <com.ics.ar.matri.view.InputFieldView
+            <com.arsh.ics.matrimony.view.InputFieldView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/login_margin_txt_top_5"
                 android:visibility="visible">
 
-                <com.ics.ar.matri.view.CustomEditText
+                <com.arsh.ics.matrimony.view.CustomEditText
                     android:id="@+id/etLanguage"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/language_speak"
                     android:imeOptions="actionNext"
                     android:singleLine="true" />
-            </com.ics.ar.matri.view.InputFieldView>
+            </com.arsh.ics.matrimony.view.InputFieldView>
 
-            <com.ics.ar.matri.view.InputFieldView
+            <com.arsh.ics.matrimony.view.InputFieldView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/login_margin_txt_top_5"
                 android:visibility="visible">
 
-                <com.ics.ar.matri.view.CustomEditText
+                <com.arsh.ics.matrimony.view.CustomEditText
                     android:id="@+id/etHobbies"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/hobbies"
                     android:imeOptions="actionNext"
                     android:singleLine="true" />
-            </com.ics.ar.matri.view.InputFieldView>
+            </com.arsh.ics.matrimony.view.InputFieldView>
 
 
-            <com.ics.ar.matri.view.InputFieldView
+            <com.arsh.ics.matrimony.view.InputFieldView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/login_margin_txt_top_5"
                 android:visibility="visible">
 
-                <com.ics.ar.matri.view.CustomEditText
+                <com.arsh.ics.matrimony.view.CustomEditText
                     android:id="@+id/etInterests"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/interests"
                     android:imeOptions="actionNext"
                     android:singleLine="true" />
-            </com.ics.ar.matri.view.InputFieldView>
+            </com.arsh.ics.matrimony.view.InputFieldView>
 
 
-            <com.ics.ar.matri.view.CustomButton
+            <com.arsh.ics.matrimony.view.CustomButton
                 android:id="@+id/btnSave"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

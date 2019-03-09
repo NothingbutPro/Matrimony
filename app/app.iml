@@ -102,7 +102,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/transforms" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
-      <excludeFolder url="file://$MODULE_DIR$/build/reports" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 27 Platform" jdkType="Android SDK" />
@@ -195,6 +194,8 @@
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-vision-common-license:11.8.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: android.arch.core:common:1.1.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics:11.8.0@aar" level="project" />
+    <orderEntry type="module" module-name="library" />
+    <orderEntry type="module" module-name="library" />
     <orderEntry type="module" module-name="library" />
   </component>
 </module>
