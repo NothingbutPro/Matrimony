@@ -12,7 +12,7 @@ import android.widget.LinearLayout;
 
 
 import com.ics.ar.matri.Models.PackagesDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.subscription.MemberShipActivity;
 import com.ics.ar.matri.sharedprefrence.SharedPrefrence;
 import com.ics.ar.matri.utils.ProjectUtils;

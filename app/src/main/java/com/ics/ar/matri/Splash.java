@@ -14,8 +14,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Window;
 import android.view.WindowManager;
-
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.Models.LoginDTO;
 import com.ics.ar.matri.activity.subscription.MemberShipActivity;
 import com.crashlytics.android.Crashlytics;

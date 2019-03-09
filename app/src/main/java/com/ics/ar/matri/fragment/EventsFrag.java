@@ -14,7 +14,7 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.ics.ar.matri.Models.LoginDTO;
 import com.ics.ar.matri.Models.NewsDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.dashboard.Dashboard;
 import com.ics.ar.matri.adapter.AdapterNews;
 import com.ics.ar.matri.https.HttpsRequest;

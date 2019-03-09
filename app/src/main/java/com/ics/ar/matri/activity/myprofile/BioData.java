@@ -19,7 +19,7 @@ import android.widget.RelativeLayout;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.ics.ar.matri.Models.UserDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.interfaces.Consts;
 import com.ics.ar.matri.utils.ScreenshotUtils;
 import com.ics.ar.matri.view.CustomTextView;

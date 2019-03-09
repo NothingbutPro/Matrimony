@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.dashboard.Dashboard;
 
 public class AboutFrag extends Fragment {

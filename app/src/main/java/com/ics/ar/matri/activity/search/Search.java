@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 
 import com.ics.ar.matri.Models.CommanDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.SysApplication;
 import com.ics.ar.matri.database.TestAdapter;
 import com.ics.ar.matri.interfaces.Consts;

@@ -25,7 +25,7 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.ics.ar.matri.Models.LoginDTO;
 import com.ics.ar.matri.Models.UserDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.profile_other.ProfileOther;
 import com.ics.ar.matri.fragment.ReceviedInterest;
 import com.ics.ar.matri.https.HttpsRequest;

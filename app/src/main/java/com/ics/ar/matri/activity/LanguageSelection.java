@@ -11,7 +11,7 @@ import android.view.View;
 
 import com.ics.ar.matri.AppIntro;
 import com.ics.ar.matri.Models.LanguageDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.dashboard.Dashboard;
 import com.ics.ar.matri.adapter.AdapterLanguage;
 import com.ics.ar.matri.interfaces.Consts;

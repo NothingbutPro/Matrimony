@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 
 import java.util.ArrayList;
 

@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.ics.ar.matri.Models.SubscriptionHistoryDto;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.utils.ProjectUtils;
 import com.ics.ar.matri.view.CustomTextView;
 import com.ics.ar.matri.view.CustomTextViewBold;

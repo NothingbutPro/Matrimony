@@ -10,7 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.ChangePass;
 import com.ics.ar.matri.activity.ContactUs;
 import com.ics.ar.matri.activity.WebViewActivity;

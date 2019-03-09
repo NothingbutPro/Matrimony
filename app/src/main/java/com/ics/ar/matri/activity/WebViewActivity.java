@@ -8,7 +8,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.LinearLayout;
 
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.interfaces.Consts;
 import com.ics.ar.matri.view.CustomTextViewBold;
 

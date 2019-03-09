@@ -15,7 +15,7 @@ import android.widget.Button;
 
 
 import com.ics.ar.matri.activity.myprofile.Profile;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.imageselection.ImageshowActivity;
 
 import java.io.File;

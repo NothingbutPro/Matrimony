@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.WindowManager;
 
 import com.ics.ar.matri.Models.ImageDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.adapter.AdapterImageSlider;
 import com.ics.ar.matri.interfaces.Consts;
 

@@ -19,7 +19,7 @@ import android.widget.Toast;
 
 import com.google.gson.Gson;
 import com.ics.ar.matri.Models.LoginDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.dashboard.Dashboard;
 import com.ics.ar.matri.https.HttpsRequest;
 import com.ics.ar.matri.interfaces.Consts;

@@ -12,7 +12,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
 import com.ics.ar.matri.Models.CommanDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.loginsignup.Registration;
 import com.ics.ar.matri.database.TestAdapter;
 import com.ics.ar.matri.interfaces.OnSpinerItemClick;

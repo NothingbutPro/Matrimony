@@ -11,7 +11,7 @@ import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.dashboard.Dashboard;
 
 public class HomeFrag extends Fragment implements View.OnClickListener {

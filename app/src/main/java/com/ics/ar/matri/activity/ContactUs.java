@@ -8,7 +8,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.LinearLayout;
 
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 
 public class ContactUs extends AppCompatActivity {
 

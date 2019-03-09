@@ -22,7 +22,7 @@ import com.isseiaoki.simplecropview.callback.CropCallback;
 import com.isseiaoki.simplecropview.callback.LoadCallback;
 import com.isseiaoki.simplecropview.callback.SaveCallback;
 import com.isseiaoki.simplecropview.util.Utils;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 
 import java.io.File;
 

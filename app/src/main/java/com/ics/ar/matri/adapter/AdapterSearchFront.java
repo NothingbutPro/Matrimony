@@ -15,7 +15,7 @@ import com.ics.ar.matri.activity.subscription.MemberShipActivity;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.ics.ar.matri.Models.UserDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.loginsignup.Login;
 import com.ics.ar.matri.activity.search.FullProfileSearch;
 import com.ics.ar.matri.activity.search.SearchResult;

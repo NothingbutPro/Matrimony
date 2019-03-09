@@ -9,7 +9,7 @@ import android.widget.BaseAdapter;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.ics.ar.matri.Models.NewsDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.interfaces.Consts;
 import com.ics.ar.matri.view.CustomTextView;
 import com.ics.ar.matri.view.SquareImageView;

@@ -34,7 +34,7 @@ import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 import com.ics.ar.matri.Models.Friend;
 import com.ics.ar.matri.Models.ListFriend;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.activity.ChatActivity;
 import com.ics.ar.matri.activity.dashboard.Dashboard;
 import com.ics.ar.matri.database.FriendDB;

@@ -30,7 +30,7 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.ics.ar.matri.Models.CommanDTO;
-import com.ics.ar.matri
+import com.ics.ar.matri.R;
 import com.ics.ar.matri.interfaces.Consts;
 import com.ics.ar.matri.interfaces.OnSpinerItemClick;
 import com.ics.ar.matri.view.CustomTextView;
