@@ -17,7 +17,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.ics.ar.matri.Models.ImageDTO;
 import com.ics.ar.matri.Models.LoginDTO;
 import com.ics.ar.matri.Models.UserDTO;
-import com.arsh.ics.matrimony.R;
+import com.ics.ar.matri
 import com.ics.ar.matri.activity.myprofile.BioData;
 import com.ics.ar.matri.activity.profile_other.ImageSlider;
 import com.ics.ar.matri.activity.profile_other.ProfileOther;

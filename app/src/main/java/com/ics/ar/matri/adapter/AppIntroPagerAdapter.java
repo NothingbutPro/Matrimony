@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.ics.ar.matri.AppIntro;
-import com.arsh.ics.matrimony.R;
+import com.ics.ar.matri
 import com.ics.ar.matri.activity.loginsignup.Login;
 import com.ics.ar.matri.view.CustomTextView;
 import com.ics.ar.matri.view.CustomTextViewBold;

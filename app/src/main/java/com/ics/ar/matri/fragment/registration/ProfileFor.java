@@ -10,7 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.ics.ar.matri.Models.ProfileForDTO;
-import com.arsh.ics.matrimony.R;
+import com.ics.ar.matri
 import com.ics.ar.matri.adapter.AdapterProfileFor;
 import com.ics.ar.matri.fragment.Divider_Profile_for;
 

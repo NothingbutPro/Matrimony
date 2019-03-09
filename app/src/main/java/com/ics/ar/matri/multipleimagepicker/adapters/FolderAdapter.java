@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.arsh.ics.matrimony.R;
+import com.ics.ar.matri
 import com.ics.ar.matri.multipleimagepicker.listeners.FolderOnItemClickListener;
 import com.ics.ar.matri.multipleimagepicker.models.Folder;
 

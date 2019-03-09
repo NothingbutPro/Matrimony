@@ -10,7 +10,7 @@ import android.widget.LinearLayout;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
-import com.arsh.ics.matrimony.R;
+import com.ics.ar.matri
 import com.ics.ar.matri.activity.loginsignup.Registration;
 import com.ics.ar.matri.interfaces.OnSpinerItemClick;
 import com.ics.ar.matri.utils.SpinnerDialog;

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.arsh.ics.matrimony">
+    package="com.ics.ar.matri">
 
 
     <uses-permission android:name="android.permission.CALL_PHONE" />

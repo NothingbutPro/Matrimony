@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
 import com.ics.ar.matri.Models.ProfileForDTO;
-import com.arsh.ics.matrimony.R;
+import com.ics.ar.matri
 import com.ics.ar.matri.fragment.registration.ProfileFor;
 import com.ics.ar.matri.view.CustomTextViewBold;
 

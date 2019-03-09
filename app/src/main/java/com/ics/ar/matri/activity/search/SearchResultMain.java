@@ -25,7 +25,7 @@ import com.ics.ar.matri.Models.Friend;
 import com.ics.ar.matri.Models.ListFriend;
 import com.ics.ar.matri.Models.MatchesDTO;
 import com.ics.ar.matri.Models.UserDTO;
-import com.arsh.ics.matrimony.R;
+import com.ics.ar.matri
 import com.ics.ar.matri.activity.ChatActivity;
 import com.ics.ar.matri.adapter.AdapterSearchMain;
 import com.ics.ar.matri.database.FriendDB;

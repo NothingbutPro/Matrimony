@@ -4,7 +4,7 @@ import android.content.Context;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.widget.DividerItemDecoration;
 
-import com.arsh.ics.matrimony.R;
+import com.ics.ar.matri
 
 public class Divider_Profile_for extends DividerItemDecoration {
 

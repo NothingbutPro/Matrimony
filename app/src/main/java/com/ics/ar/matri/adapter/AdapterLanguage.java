@@ -16,7 +16,7 @@ import android.widget.TextView;
 import com.ics.ar.matri.AppIntro;
 import com.ics.ar.matri.Models.LanguageDTO;
 import com.ics.ar.matri.Models.LoginDTO;
-import com.arsh.ics.matrimony.R;
+import com.ics.ar.matri
 import com.ics.ar.matri.activity.LanguageSelection;
 import com.ics.ar.matri.activity.dashboard.Dashboard;
 import com.ics.ar.matri.interfaces.Consts;
