@@ -14,7 +14,7 @@ apply plugin: 'io.fabric'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.arsh.ics.matrimony"
+        applicationId "com.ics.ar.matri"
         minSdkVersion 21
         targetSdkVersion 27
         versionCode 2

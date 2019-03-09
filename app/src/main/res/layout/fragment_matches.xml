@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFDF00"
-    tools:context="com.arsh.ics.matrimony.fragment.SearchFrag">
+    tools:context="com.ics.ar.matri.fragment.SearchFrag">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rvMatch"

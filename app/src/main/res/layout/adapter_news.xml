@@ -23,7 +23,7 @@
             android:layout_margin="10dp"
             android:orientation="vertical">
 
-            <com.arsh.ics.matrimony.view.CustomTextView
+            <com.ics.ar.matri.view.CustomTextView
                 android:id="@+id/tvTitle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -32,7 +32,7 @@
                 android:textSize="15sp" />
 
 
-            <com.arsh.ics.matrimony.view.CustomTextView
+            <com.ics.ar.matri.view.CustomTextView
                 android:id="@+id/tvComment"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -41,7 +41,7 @@
                 android:textAlignment="inherit" />
 
 
-            <com.arsh.ics.matrimony.view.SquareImageView
+            <com.ics.ar.matri.view.SquareImageView
                 android:id="@+id/post_image"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

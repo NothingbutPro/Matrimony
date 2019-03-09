@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#FFDF00"
-    tools:context="com.arsh.ics.matrimony.activity.search.Search">
+    tools:context="com.ics.ar.matri.activity.search.Search">
 
     <RelativeLayout
         android:id="@+id/action_bar_menus"
@@ -33,7 +33,7 @@
 
         </LinearLayout>
 
-        <com.arsh.ics.matrimony.view.CustomTextViewBold
+        <com.ics.ar.matri.view.CustomTextViewBold
             android:id="@+id/tvHeader"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

@@ -43,7 +43,7 @@
 
                 </LinearLayout>
 
-                <com.arsh.ics.matrimony.view.CustomTextView
+                <com.ics.ar.matri.view.CustomTextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/imageLyout"
@@ -54,7 +54,7 @@
                     android:textSize="18sp" />
 
 
-                <com.arsh.ics.matrimony.view.CustomTextView
+                <com.ics.ar.matri.view.CustomTextView
                     android:id="@+id/tvAddImage"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -89,7 +89,7 @@
                     android:background="@drawable/circle_red"
                     android:visibility="gone">
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvImageCount"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -190,7 +190,7 @@
                             android:layout_centerVertical="true"
                             android:src="@drawable/ic_user" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextViewBold
+                        <com.ics.ar.matri.view.CustomTextViewBold
                             android:id="@+id/tvName"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -219,7 +219,7 @@
                         android:layout_marginTop="6dp"
                         android:orientation="horizontal">
 
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:id="@+id/tvHeight"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
@@ -228,7 +228,7 @@
                             android:textColor="@color/off_black"
                             android:textSize="14sp" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:id="@+id/tvIncome"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
@@ -246,7 +246,7 @@
                         android:layout_below="@+id/LL1"
                         android:orientation="horizontal">
 
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:id="@+id/tvGotra"
                             android:layout_width="0dp"
                             android:visibility="gone"
@@ -256,7 +256,7 @@
                             android:textColor="@color/off_black"
                             android:textSize="14sp" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:id="@+id/tvCity"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
@@ -276,7 +276,7 @@
                         android:layout_below="@+id/LL2"
                         android:orientation="horizontal">
 
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:id="@+id/tvDistrict"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
@@ -285,7 +285,7 @@
                             android:textColor="@color/off_black"
                             android:textSize="14sp" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:id="@+id/tvState"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
@@ -327,7 +327,7 @@
                             android:layout_centerVertical="true"
                             android:src="@drawable/ic_user" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextViewBold
+                        <com.ics.ar.matri.view.CustomTextViewBold
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_centerVertical="true"
@@ -354,7 +354,7 @@
                         android:layout_marginTop="6dp"
                         android:orientation="horizontal">
 
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:id="@+id/tvDob"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
@@ -363,7 +363,7 @@
                             android:textColor="@color/off_black"
                             android:textSize="14sp" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:id="@+id/tvMaritalStatus"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
@@ -374,7 +374,7 @@
 
                     </LinearLayout>
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvAadhaar"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -387,7 +387,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="15dp"
                         android:orientation="vertical">
-                        <com.arsh.ics.matrimony.view.CustomTextViewBold
+                        <com.ics.ar.matri.view.CustomTextViewBold
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:visibility="gone"
@@ -397,7 +397,7 @@
                             android:textColor="@color/off_black"
                             android:textSize="16sp" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:visibility="gone"
@@ -407,7 +407,7 @@
                             android:textSize="14sp" />
 
 
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:id="@+id/tvBirthTime"
                             android:visibility="gone"
                             android:layout_width="wrap_content"
@@ -415,7 +415,7 @@
                             android:text=""
                             android:textColor="@color/off_black"
                             android:textSize="14sp" />
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:visibility="gone"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -424,7 +424,7 @@
                             android:layout_marginTop="5dp"
                             android:textSize="14sp" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextView
+                        <com.ics.ar.matri.view.CustomTextView
                             android:id="@+id/tvBirthCity"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -434,7 +434,7 @@
 
                     </LinearLayout>
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:visibility="gone"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -472,7 +472,7 @@
                             android:layout_centerVertical="true"
                             android:src="@drawable/ic_about" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextViewBold
+                        <com.ics.ar.matri.view.CustomTextViewBold
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_centerVertical="true"
@@ -492,7 +492,7 @@
 
                     </RelativeLayout>
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvAbout"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -501,7 +501,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -510,7 +510,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvBodyType"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -519,7 +519,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -528,7 +528,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvBlood"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -537,7 +537,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -546,7 +546,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvCase"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -586,7 +586,7 @@
                             android:layout_centerVertical="true"
                             android:src="@drawable/ic_career" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextViewBold
+                        <com.ics.ar.matri.view.CustomTextViewBold
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_centerVertical="true"
@@ -607,7 +607,7 @@
                     </RelativeLayout>
 
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -616,7 +616,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvEducation"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -625,7 +625,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -634,7 +634,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvOccupation"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -643,7 +643,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvWorkArea"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -684,7 +684,7 @@
                             android:layout_centerVertical="true"
                             android:src="@drawable/ic_life_style" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextViewBold
+                        <com.ics.ar.matri.view.CustomTextViewBold
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_centerVertical="true"
@@ -705,7 +705,7 @@
 
                     </RelativeLayout>
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvLife"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -713,7 +713,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvLanguage"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -721,7 +721,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -730,7 +730,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvInterests"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -739,7 +739,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -748,7 +748,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvHobbies"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -787,7 +787,7 @@
                             android:layout_centerVertical="true"
                             android:src="@drawable/ic_family" />
 
-                        <com.arsh.ics.matrimony.view.CustomTextViewBold
+                        <com.ics.ar.matri.view.CustomTextViewBold
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_centerVertical="true"
@@ -808,7 +808,7 @@
                     </RelativeLayout>
 
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -817,7 +817,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvFamilyBackground"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -826,7 +826,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -835,7 +835,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvFamilyIncome"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -844,7 +844,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -853,7 +853,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvFatherOccupation"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -862,7 +862,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -871,7 +871,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvMotherOccupation"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -880,7 +880,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -889,7 +889,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvBro"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -898,7 +898,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvSis"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -907,7 +907,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextViewBold
+                    <com.ics.ar.matri.view.CustomTextViewBold
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -916,7 +916,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="16sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvFamilyAddress"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -924,7 +924,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvFamilyBased"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -933,7 +933,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvFamilyPin"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -941,14 +941,14 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvFamilyEmail"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text=""
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvFamilyContact"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -956,7 +956,7 @@
                         android:textColor="@color/off_black"
                         android:textSize="14sp" />
 
-                    <com.arsh.ics.matrimony.view.CustomTextView
+                    <com.ics.ar.matri.view.CustomTextView
                         android:id="@+id/tvFamilyWhatsup"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"

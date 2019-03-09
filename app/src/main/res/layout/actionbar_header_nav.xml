@@ -35,7 +35,7 @@
                 android:layout_gravity="center"
                 android:gravity="center">
 
-                <com.arsh.ics.matrimony.view.CustomTextViewBold
+                <com.ics.ar.matri.view.CustomTextViewBold
                     android:id="@+id/headerNameTV"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"

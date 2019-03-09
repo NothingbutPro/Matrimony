@@ -33,7 +33,7 @@
         android:clickable="false"
         android:visibility="visible">
 
-        <com.arsh.ics.matrimony.view.CustomTextView
+        <com.ics.ar.matri.view.CustomTextView
             android:id="@+id/tvSkip"
             android:layout_width="match_parent"
             android:layout_height="50dp"

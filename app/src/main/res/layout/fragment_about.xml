@@ -39,41 +39,41 @@
             android:layout_margin="35dp"
             android:orientation="vertical">
 
-            <com.arsh.ics.matrimony.view.CustomTextViewBold
+            <com.ics.ar.matri.view.CustomTextViewBold
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Arsh Muslim Marriage"
                 android:textSize="16sp" />
 
-            <com.arsh.ics.matrimony.view.CustomTextView
+            <com.ics.ar.matri.view.CustomTextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="2dp"
                 android:text="Gotegaon, Distt.Narsinghpur"
                 android:textSize="16sp" />
 
-            <com.arsh.ics.matrimony.view.CustomTextView
+            <com.ics.ar.matri.view.CustomTextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="2dp"
                 android:text="(M.P.)"
                 android:textSize="16sp" />
 
-            <com.arsh.ics.matrimony.view.CustomTextView
+            <com.ics.ar.matri.view.CustomTextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:text="Version: 1.0.0"
                 android:textSize="16sp" />
 
-            <com.arsh.ics.matrimony.view.CustomTextView
+            <com.ics.ar.matri.view.CustomTextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="2dp"
                 android:text="Launched: 20th Nov 2018"
                 android:textSize="16sp" />
 
-            <com.arsh.ics.matrimony.view.CustomTextView
+            <com.ics.ar.matri.view.CustomTextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -83,7 +83,7 @@
                 android:text="@string/contact_us_about"
                 android:textStyle="bold" />
 
-            <!--  <com.arsh.ics.matrimony.view.CustomTextView
+            <!--  <com.ics.ar.matri.view.CustomTextView
                   android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
                   android:layout_marginTop="5dp"

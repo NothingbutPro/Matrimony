@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#FFDF00"
-    tools:context="com.arsh.ics.matrimony.activity.loginsignup.ForgotPass">
+    tools:context="com.ics.ar.matri.activity.loginsignup.ForgotPass">
 
     <RelativeLayout
         android:id="@+id/action_bar_menus"
@@ -33,7 +33,7 @@
 
         </LinearLayout>
 
-        <com.arsh.ics.matrimony.view.CustomTextViewBold
+        <com.ics.ar.matri.view.CustomTextViewBold
             android:id="@+id/tvHeader"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -51,22 +51,22 @@
         android:layout_margin="20dp"
         android:orientation="vertical">
 
-        <com.arsh.ics.matrimony.view.InputOpenFieldView
+        <com.ics.ar.matri.view.InputOpenFieldView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:visibility="visible">
 
-            <com.arsh.ics.matrimony.view.CustomEditText
+            <com.ics.ar.matri.view.CustomEditText
                 android:id="@+id/etMobile"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/mobile_number"
                 android:imeOptions="actionDone"
                 android:singleLine="true" />
-        </com.arsh.ics.matrimony.view.InputOpenFieldView>
+        </com.ics.ar.matri.view.InputOpenFieldView>
 
 
-        <com.arsh.ics.matrimony.view.CustomButton
+        <com.ics.ar.matri.view.CustomButton
             android:id="@+id/btnSubmit"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

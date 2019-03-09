@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFDF00"
-    tools:context="com.arsh.ics.matrimony.fragment.VisitorsFrag">
+    tools:context="com.ics.ar.matri.fragment.VisitorsFrag">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rvMatch"
@@ -24,7 +24,7 @@
             android:layout_centerInParent="true"
             android:src="@drawable/ic_error" />
 
-        <com.arsh.ics.matrimony.view.CustomTextView
+        <com.ics.ar.matri.view.CustomTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"

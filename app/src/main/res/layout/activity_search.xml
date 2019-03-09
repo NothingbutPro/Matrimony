@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#FFDF00"
-    tools:context="com.arsh.ics.matrimony.activity.search.Search">
+    tools:context="com.ics.ar.matri.activity.search.Search">
 
     <RelativeLayout
         android:id="@+id/action_bar_menus"
@@ -33,7 +33,7 @@
 
         </LinearLayout>
 
-        <com.arsh.ics.matrimony.view.CustomTextViewBold
+        <com.ics.ar.matri.view.CustomTextViewBold
             android:id="@+id/tvHeader"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -67,7 +67,7 @@
                 android:background="@drawable/gender_selecte"
                 android:gravity="center">
 
-                <com.arsh.ics.matrimony.view.CustomTextView
+                <com.ics.ar.matri.view.CustomTextView
                     android:id="@+id/tvBride"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -86,7 +86,7 @@
                 android:background="@drawable/gender_unselecte"
                 android:gravity="center">
 
-                <com.arsh.ics.matrimony.view.CustomTextView
+                <com.ics.ar.matri.view.CustomTextView
                     android:id="@+id/tvGroom"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -99,74 +99,74 @@
             </LinearLayout>
         </LinearLayout>
 
-        <com.arsh.ics.matrimony.view.InputFieldView
+        <com.ics.ar.matri.view.InputFieldView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/login_margin_txt_top_5"
             android:visibility="visible">
 
-            <com.arsh.ics.matrimony.view.CustomEditText
+            <com.ics.ar.matri.view.CustomEditText
                 android:id="@+id/etCaste"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:imeOptions="actionNext"
                 android:hint="@string/caste"
                 android:singleLine="true" />
-        </com.arsh.ics.matrimony.view.InputFieldView>
-        <com.arsh.ics.matrimony.view.InputFieldView
+        </com.ics.ar.matri.view.InputFieldView>
+        <com.ics.ar.matri.view.InputFieldView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/login_margin_txt_top_5"
             android:visibility="visible">
 
-            <com.arsh.ics.matrimony.view.CustomEditText
+            <com.ics.ar.matri.view.CustomEditText
                 android:id="@+id/etMaritial"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/marital1" />
-        </com.arsh.ics.matrimony.view.InputFieldView>
+        </com.ics.ar.matri.view.InputFieldView>
 
-<!--        <com.arsh.ics.matrimony.view.InputFieldView
+<!--        <com.ics.ar.matri.view.InputFieldView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/login_margin_txt_top_5"
             android:visibility="visible">
 
-            <com.arsh.ics.matrimony.view.CustomEditText
+            <com.ics.ar.matri.view.CustomEditText
                 android:id="@+id/etManglik"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/manglik1" />
-        </com.arsh.ics.matrimony.view.InputFieldView>-->
+        </com.ics.ar.matri.view.InputFieldView>-->
 
-        <com.arsh.ics.matrimony.view.InputFieldView
+        <com.ics.ar.matri.view.InputFieldView
             android:id="@+id/inf_state"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/login_margin_txt_top_10">
 
-            <com.arsh.ics.matrimony.view.CustomEditText
+            <com.ics.ar.matri.view.CustomEditText
                 android:id="@+id/etState"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/state" />
-        </com.arsh.ics.matrimony.view.InputFieldView>
+        </com.ics.ar.matri.view.InputFieldView>
 
-        <com.arsh.ics.matrimony.view.InputFieldView
+        <com.ics.ar.matri.view.InputFieldView
             android:id="@+id/inf_district"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/login_margin_txt_top_10"
             android:visibility="gone">
 
-            <com.arsh.ics.matrimony.view.CustomEditText
+            <com.ics.ar.matri.view.CustomEditText
                 android:id="@+id/etDistrict"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/district" />
-        </com.arsh.ics.matrimony.view.InputFieldView>
+        </com.ics.ar.matri.view.InputFieldView>
 
-        <com.arsh.ics.matrimony.view.CustomButton
+        <com.ics.ar.matri.view.CustomButton
             android:id="@+id/btnSearch"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

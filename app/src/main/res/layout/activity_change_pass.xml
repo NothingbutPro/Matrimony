@@ -30,7 +30,7 @@
 
         </LinearLayout>
 
-        <com.arsh.ics.matrimony.view.CustomTextViewBold
+        <com.ics.ar.matri.view.CustomTextViewBold
             android:id="@+id/tvHeader"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -48,45 +48,45 @@
         android:layout_margin="20dp"
         android:orientation="vertical">
 
-        <com.arsh.ics.matrimony.view.CustomTextView
+        <com.ics.ar.matri.view.CustomTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/old_password" />
 
-        <com.arsh.ics.matrimony.view.CustomEditText
+        <com.ics.ar.matri.view.CustomEditText
             android:id="@+id/etOldPassword"
             android:layout_width="match_parent"
             android:layout_height="40dp"
             android:inputType="textPassword" />
 
 
-        <com.arsh.ics.matrimony.view.CustomTextView
+        <com.ics.ar.matri.view.CustomTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
             android:text="@string/new_password" />
 
-        <com.arsh.ics.matrimony.view.CustomEditText
+        <com.ics.ar.matri.view.CustomEditText
             android:id="@+id/etNewPassword"
             android:layout_width="match_parent"
             android:layout_height="40dp"
             android:inputType="textPassword" />
 
 
-        <com.arsh.ics.matrimony.view.CustomTextView
+        <com.ics.ar.matri.view.CustomTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
             android:text="@string/confirm_password" />
 
-        <com.arsh.ics.matrimony.view.CustomEditText
+        <com.ics.ar.matri.view.CustomEditText
             android:id="@+id/etConfirmNewPassword"
             android:layout_width="match_parent"
             android:layout_height="35dp"
             android:inputType="textPassword" />
 
 
-        <com.arsh.ics.matrimony.view.CustomButton
+        <com.ics.ar.matri.view.CustomButton
             android:id="@+id/UpdateBtn"
             android:layout_width="match_parent"
             android:layout_height="50dp"
